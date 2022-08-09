@@ -29,7 +29,21 @@ const quizData = [{
     c: "Jason Object Notation",
     d: "Helicopters Terminals Motorboats Lamborginis",
     correct: "b",
+},
+
+
+{
+    question: "Who invented java?",
+    a: "James Gosling",
+    b: "Cascading Style Sheet",
+    c: "Jason Object Notation",
+    d: "Helicopters Terminals Motorboats Lamborginis",
+    correct: "a",
 }
+
+
+
+
 ];
 let index = 0;
 let correct = 0,
